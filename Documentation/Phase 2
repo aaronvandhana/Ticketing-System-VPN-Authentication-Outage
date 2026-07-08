@@ -1,0 +1,16 @@
+Phase 2 -- osTicket via XAMPP
+
+1. Stop IIS in the Services menu, set Manual on startup for World Wide Web Publishing Service
+2. Download XAMPP & osTicket
+3. Installed XAMPP
+- Made sure Apache & MySQL were checked
+4. Start Apache & MySQL
+- MySQL started correctly, Apache would not start
+- Found what was using port 80 in CMD, changed Apache config for port 8080 in XAMPP Control Panel
+- HTTPS (port 443) was blocked as Apache was trying to start SSL on port 443, had to disable SSL in Apache
+5. Create osTicket Database in MySQL
+6. Extract and Place osTicket Files into C:\xampp\htdocs\
+7. Configure osTicket
+8. Fill in the osTicket Installer
+9. Secure the Config File
+10. Log Into osTicket Admin Panel
