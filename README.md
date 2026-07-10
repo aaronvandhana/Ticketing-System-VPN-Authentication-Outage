@@ -1,4 +1,4 @@
-# Ticketing-System-VPN-Authentication-Outage
+# VPN-Connectivity-Incident-AD-Account-Lockout
 This project will outline the ticket lifecycle of a VPN outage in an enterprise system
 
 ## Engineering Notes
