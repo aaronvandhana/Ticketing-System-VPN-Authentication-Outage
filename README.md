@@ -47,7 +47,7 @@ on lockout policy, preventive measures documented.
 
 ## Video Walkthrough
 
-[Coming Soon](#)
+[Loom](https://www.loom.com/share/02453089f9ea43c598138427f9e141b4) or [YouTube](https://youtu.be/ILDd_JwWMN8)
 
 ---
 
